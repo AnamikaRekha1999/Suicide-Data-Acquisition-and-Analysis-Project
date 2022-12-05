@@ -22,7 +22,7 @@ C:\\Users\\Mike\\Downloads\\Data-Project\\
 4.Suicide Hotline Numbers: Suicide hotline number could set a plan to observe the suicide trend in terms of age group, sex etc. and set us a constructive plan to ensure reduction on suicide among these categories. 
 5.Business sector: The business sector could co-relate with the happiness index, mental health employee counts, etc. before setting up a business. The ones who already have a business set in a country could set up boot camps regarding suicide prevention for their employees and people in general. Upcoming companies could also come up with suicide prevention and detection products in countries with high suicide rates.
 
-#####Issues & Limitations
+##### Issues & Limitations
 
 1.Missing Values: While the data is available, some parameters are not as widely reported by many countries.
 2.Assumption: When manipulating the data, a couple of variables were created with the column in years considering random values from -3 to 9 in order to ensure standardization. However, in real work scenario this value can be changed to the global trend in each of the parameter. 
