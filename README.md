@@ -1,14 +1,4 @@
-# SuicidePrevention
-
-For our project, we created a dataset of variables that have correlation to the suicide victims from multiple government and private websites.
-Some of the factors we took into consideration are: Mental Health Expenditure,Drug Addiction, Happinness Index, Literacy Rate, Population.
-
-We did a lot of preprocessing, cleaning and then finally merged the different datasets to come up with the final dataset.
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-
-Introduction
+##### Introduction
 1.Through our data we have found out the countries that have the highest suicide rates and then provided insights on it with the help of various parameters that could be a reason for suicide attempts.
 2.After we acquire the dataset from various websites, we did web scraping to add additional values in our dataset and then data preprocessing, manipulation merging and analysis.
 3.The goal of the project is to provide insights to Suicide prevention agencies ensuring the target population is taken care of first, which would eventually save more lives.
