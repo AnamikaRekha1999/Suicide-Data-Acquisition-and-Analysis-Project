@@ -7,6 +7,6 @@ We did a lot of preprocessing, cleaning and then finally merged the different da
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-...snip...    
+   
 <a name="headers"/>
 ## Headers
